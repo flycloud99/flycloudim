@@ -1,4 +1,4 @@
-# 飞云IM即时通讯
+# 飞云IM聊天软件，im即时通讯
 
 开版联系[@飞云IM](https://t.me/flycloud_soft)
 
